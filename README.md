@@ -3,7 +3,7 @@
 -  Front-End
 -  No momento estou estudando React.js
 -  Meu email é: vm44765163@gmail.com
--  Meu LinkedIN é: https://www.linkedin.com/in/vinicius-moreira-franco-custódio/
+-  Meu LinkedIn é: https://www.linkedin.com/in/vinicius-moreira-franco-custódio/
 
 ## Tecnologias
 <div style="display:inline_block"><br/>
