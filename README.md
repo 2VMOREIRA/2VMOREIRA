@@ -1,6 +1,6 @@
 ### Meu nome é Vinicius Moreira ✅
 
--  Front-End
+-  Trabalho com Front-End
 -  No momento estou estudando React.js
 -  Meu email é: vm44765163@gmail.com
 -  Meu LinkedIn é: https://www.linkedin.com/in/vinicius-moreira-franco-custódio/
